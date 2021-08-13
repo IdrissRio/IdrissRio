@@ -56,19 +56,6 @@ My name is Idriss and I am a PhD student at Lund University.
   <div> 
 </div>
 
-<br/>
-
-
-
-<br/>
-
-
-<br/>
-
-<hr/>
-
-<br/>
-
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
