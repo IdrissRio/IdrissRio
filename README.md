@@ -16,9 +16,9 @@ My name is Idriss and I am a PhD student at Lund University.
 ## 🧐 My main research interest are:
 
 
-* ##  (Reference) Attributed Systems
-* ##  Static analysis
-* ##  Data-flow analysis.
+* (Reference) Attributed Systems
+* Static analysis
+* Data-flow analysis.
 
 <h2> Recent papers:</h2>
 
