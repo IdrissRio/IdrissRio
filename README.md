@@ -13,7 +13,7 @@
 My name is Idriss and I am a PhD student at Lund University. 
 </h1>
 
-## 🧐 My main research interest are:
+## My main research interests are:
 
 
 * (Reference) Attributed Systems
