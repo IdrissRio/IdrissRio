@@ -1,6 +1,5 @@
 <h1 align="center">
   Hello, everyone!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 </h1>
 
 <p align="center">   
@@ -56,8 +55,3 @@ My name is Idriss and I am a PhD student at Lund University.
   <div> 
 </div>
 
-<p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idrissrio&label=Profile%20views&color=0e75b6&style=flat" alt="idrissrio" /> </p>
