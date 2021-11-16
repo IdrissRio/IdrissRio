@@ -49,9 +49,5 @@ My name is Idriss and I am a PhD student at Lund University.
   </div>
 
   <hr/>
-
-  <div>
-    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=idrissrio&custom_title=Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  <div> 
 </div>
 
