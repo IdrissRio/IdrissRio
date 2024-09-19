@@ -15,9 +15,9 @@ My name is Idriss and I am a PhD student at Lund University.
 ## My main research interests are:
 
 
-* (Reference) Attributed Systems
-* Static analysis
-* Data-flow analysis.
+* Everything related to Compilers, Programming Languages and Program Analysis.
+* Abstract Interpretation
+* ... and compilers again.
 
 <h2> Recent papers:</h2>
 
