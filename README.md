@@ -4,7 +4,7 @@ Software Engineer at GitHub, CodeQL team, working on C/C++ analysis and extracto
 * PhD in Computer Science from Lund University 🇸🇪, researching fast static program analysis for Java.
 * Master's at University of Udine. 
 * Born and raised in Parma 🇮🇹, now living in Denmark 🇩🇰.
-* I have Moroccan roots 🇲🇦. The [meaning](https://en.wikipedia.org/wiki/Idris_(prophet)) of my name in Arabic is 'interpreter.'
+* My name has Moroccan roots 🇲🇦. The [meaning](https://en.wikipedia.org/wiki/Idris_(prophet)) of my name in Arabic is 'interpreter.'
 * I enjoy climbing 🧗 and have a cat named Brioche 🐾.
 
 <p align="center" 
