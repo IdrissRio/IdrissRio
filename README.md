@@ -1,18 +1,21 @@
-# Idriss Riouak
+# Idriss Riouak
 
-Software Engineer at GitHub, CodeQL team, working on C/C++ analysis and extractor.
-* PhD in Computer Science from Lund University 🇸🇪, researching fast static program analysis for Java.
-* Master's at University of Udine. 
-* Born and raised in Parma 🇮🇹, now living in Denmark 🇩🇰.
-* My name has Moroccan roots 🇲🇦. The [meaning](https://en.wikipedia.org/wiki/Idris_(prophet)) of my name in Arabic is 'interpreter.'
-* I enjoy climbing 🧗 and have a cat named Brioche 🐾.
+Software Engineer at [GitHub](https://github.com), [CodeQL](https://securitylab.github.com/tools/codeql/) team, working on C/C++ analysis and extractor.  
 
-<p align="center" 
-	<picture>
-<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+* PhD in Computer Science from [Lund University](https://www.lu.se) 🇸🇪, researching fast static program analysis for Java, part of [WASP – Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org).  
+* Master’s at [University of Udine](https://www.uniud.it) 🇮🇹.  
+* Born and raised in [Parma](https://en.wikipedia.org/wiki/Parma) 🇮🇹, now based in [Vejle](https://en.wikipedia.org/wiki/Vejle) 🇩🇰 and experimenting with hygge.  
+* Member of the [SDE group at GitHub](https://github.com/github)  
+* I enjoy climbing 🧗 and am part of [Kolding Klatreklub](https://www.facebook.com/KoldingKlatreklub) (Denmark).  
+* I have a cat named Brioche 🐾.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/day.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/day.svg" />
+  </picture>
+</div>
+
 
 *“Riding dragons and writing code”*  
