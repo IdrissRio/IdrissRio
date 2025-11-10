@@ -5,7 +5,7 @@ Software Engineer at [GitHub](https://github.com), [CodeQL](https://securitylab.
 * PhD in Computer Science from [Lund University](https://www.lu.se) 🇸🇪, researching fast static program analysis for Java, part of [WASP – Wallenberg AI, Autonomous Systems and Software Program](https://wasp-sweden.org).  
 * Master’s at [University of Udine](https://www.uniud.it) 🇮🇹.  
 * Born and raised in [Parma](https://en.wikipedia.org/wiki/Parma) 🇮🇹, now based in [Vejle](https://en.wikipedia.org/wiki/Vejle) 🇩🇰 and experimenting with hygge.  
-* Member of the [SDE group at GitHub](https://github.com/github)  
+* Once member of the [SDE group]([https://github.com/github](https://portal.research.lu.se/sv/organisations/software-development-and-environments/))  
 * I enjoy climbing 🧗 and am part of [Kolding Klatreklub](https://www.facebook.com/KoldingKlatreklub) (Denmark).  
 * I have a cat named Brioche 🐾.
 
