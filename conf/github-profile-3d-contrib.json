@@ -1,39 +1,76 @@
 [
-    {
-        "type": "block",
-        "fileName": "day.svg",
-        "backgroundColor": "#ffffff",
-        "foregroundColor": "#00000f",
-        "strongColor": "#111133",
-        "weakColor": "gray",
-        "radarColor": "#47a042",
-        "growingAnimation": true,
-        "contribColors": [
-            "#efefef",
-            "#d8e887",
-            "#8cc569",
-            "#47a042",
-            "#1d6a23"
-        ]
-    },
-    {
-        "type": "block",
-        "fileName": "night.svg",
-        "backgroundColor": "#00000f",
-        "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
-        "weakColor": "#aaaaaa",
-        "radarColor": "rgb(255,200,55)",
-        "growingAnimation": true,
-        "saturation": "50%",
-        "contribLightness": [
-            "20%",
-            "30%",
-            "35%",
-            "40%",
-            "50%"
-        ],
-        "duration": "10s",
-        "hueRatio": -7
-    }
+  {
+    "type": "bitmap",
+    "fileName": "profile-custom-gitblock-day.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#00000f",
+    "strongColor": "#111133",
+    "weakColor": "gray",
+    "radarColor": "#47a042",
+    "growingAnimation": true,
+    "contribPatterns": [
+      {
+        "top": {
+          "backgroundColor": "#f8f8f8",
+          "foregroundColor": "#aaaaaa",
+          "width": 32,
+          "bitmap": [
+            "0x00000000","0x00000000","0x01c001c0","0x06300630","0x0a080a08","0x12081208","0x11041104","0x11841184",
+            "0x12c412c4","0x0d780d78","0x0aa80aa8","0x07500750","0x01e001e0","0x00000000","0x00000000","0x00000000"
+          ]
+        },
+        "left": {
+          "width": 32,
+          "bitmap": [
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000",
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0xaaaaaaaa"
+          ]
+        },
+        "right": {
+          "width": 32,
+          "bitmap": [
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000",
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0xaaaaaaaa"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "type": "bitmap",
+    "fileName": "profile-custom-gitblock-night.svg",
+    "backgroundColor": "#00000f",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "#ffff99",
+    "weakColor": "#aaaaaa",
+    "radarColor": "#ffcc33",
+    "growingAnimation": true,
+    "contribPatterns": [
+      {
+        "top": {
+          "backgroundColor": "hsl(240, 100%, 20%)",
+          "foregroundColor": "hsl(240, 100%, 80%)",
+          "width": 32,
+          "bitmap": [
+            "0x00000000","0x00000000","0x01c001c0","0x06300630","0x0a080a08","0x12081208","0x11041104","0x11841184",
+            "0x12c412c4","0x0d780d78","0x0aa80aa8","0x07500750","0x01e001e0","0x00000000","0x00000000","0x00000000"
+          ]
+        },
+        "left": {
+          "width": 32,
+          "bitmap": [
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000",
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0xaaaaaaaa"
+          ]
+        },
+        "right": {
+          "width": 32,
+          "bitmap": [
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000",
+            "0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0x00000000","0xaaaaaaaa"
+          ]
+        }
+      }
+    ]
+  }
 ]
