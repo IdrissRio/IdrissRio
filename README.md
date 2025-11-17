@@ -11,11 +11,12 @@ Software Engineer at [GitHub](https://github.com), [CodeQL](https://securitylab.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/day.svg" />
-    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/profile-custom-gitblock-night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/profile-custom-gitblock-day.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/idrissrio/idrissrio/output-3d-contrib/profile-custom-gitblock-day.svg" />
   </picture>
 </div>
+
 
 
 *“Riding dragons and writing code”*  
